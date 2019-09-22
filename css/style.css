@@ -1,5 +1,22 @@
+.subMenu{
+	color: white;
+}
+
+.divSubMenu{
+	padding: 10px;
+	background: #72a411;
+	text-align: center;
+}
+
+.btn-light{
+	color: white;
+	width: 25%;
+	background: #72a411;
+
+}
+
 .img-presentacion{
-	height: 800px !important;
+	height: 580px !important;
 }
 
 .mostrarMobile{
